@@ -37,3 +37,18 @@ This tool captures live IP packets, extracts metadata such as source, destinatio
 ```bash
 pip install -r requirements.txt
 ```
+---
+## File Structure
+<pre>
+  
+Week_3_Project/
+│
+├── sniiffer.py/
+│            
+├── requirement.txt/
+│         
+├── DISCLAIMER.md/
+│      
+└── README.md                       
+ 
+</pre>
