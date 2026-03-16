@@ -43,11 +43,11 @@ pip install -r requirements.txt
   
 Week_3_Project/
 │
-├── sniiffer.py/
+├── sniiffer.py
 │            
-├── requirement.txt/
+├── requirement.txt
 │         
-├── DISCLAIMER.md/
+├── DISCLAIMER.md
 │      
 └── README.md                       
  
